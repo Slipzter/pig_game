@@ -1,1 +1,44 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
 
+
+.game-area {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.players {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.player-stuff {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 300px;
+}
+
+.images {
+    align-self: center;
+}
+
+.buttons {
+    align-self: center;
+}
+
+.final-score {
+    width: 200px;
+    align-self: center;
+}
+
+.btn-new {
+    width: 100px;
+    align-self: center;
+}
