@@ -1,12 +1,20 @@
-# Javascript - Grisspelet   
+# Pig Game
+Simple game using HTML, CSS and JavaScript
 
-## Spelregler
+<img src="https://i.imgur.com/Q41Cy9Z.png" alt="image of pig game" width="800"/>
 
-* Spelet har två deltagare där vardera spelar var sin omgång.
-* För varje omgång "kastar" den ena spelaren tärning genom att klicka "ROLL DIE". Man får kasta tärning så många gånger man vill. Varje kast adderas till OMGÅNGSPOÄNG.  
-* MEN, om en deltagare slår en 1:a går alla poäng i den omgången förlorade. Efter det är det andra spelarens tur.
-* En spelare kan välja att stanna och välja "HOLD SCORE". Då adderas poängen i OMGÅNGSPOÄNG till den "TOTAL POINTS". Efter det är det andra spelarens tur.
+## General Info & Rules
 
+* #### The game has two players.
+* #### The player highlighted with purple color starts and when their turn ends the second player starts.
+* #### Every turn, the player rolls the die by pressing "Roll Die".  
+You can roll the die as many times as you want.  
+Every roll is added to the round points indicated below the PLAYER text.  
+* #### If a player rolls a "1", the round points are lost and the turn ends.
+* #### A player can choose to "Hold Score" to save their round points.  
+This will save their points to "Total Points" and the turn ends.
+* #### Total points determine who wins the game.
+You decide how many points that are required to win.
 
 
 
