@@ -1,6 +1,8 @@
 # Pig Game
 Simple game using HTML, CSS and JavaScript
 
+Live site at: https://slipzter.github.io/pig_game/
+
 <img src="https://i.imgur.com/Q41Cy9Z.png" alt="image of pig game" width="800"/>
 
 ## General Info & Rules
